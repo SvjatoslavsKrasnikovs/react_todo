@@ -1,1 +1,1 @@
-Mockup project of a todo application. Part of Udemy'd React course.
+Mockup project of a todo application. Part of Udemy's React course.
